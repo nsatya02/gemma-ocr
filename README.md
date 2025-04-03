@@ -1,4 +1,4 @@
-# AI-Powered OCR and Data Analysis Suite with Airbnb Integration
+# AI-Powered OCR using Gemma3
 
 This project combines powerful OCR capabilities using the Gemma-3 Vision model and Streamlit to create a 100% locally running computer vision app that can perform both OCR and extract structured text from the image.
 
