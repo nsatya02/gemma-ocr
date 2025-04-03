@@ -1,4 +1,5 @@
 streamlit
 ollama
 PyPDF2
+pillow
 python-docx
