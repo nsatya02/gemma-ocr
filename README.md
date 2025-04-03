@@ -9,9 +9,9 @@ A Streamlit-based OCR application that extracts text from images, PDFs, and Word
 ```
 .
 ├── gemma-ocr/                  # OCR application directory
-│   ├── app.py                  # Basic OCR implementation for images
-│   ├── app1.py                # Enhanced OCR with PDF/DOCX support
-│   └── requirements.txt       # Project dependencies
+    ├── app.py                  # Basic OCR implementation for images
+    ├── app1.py                # Enhanced OCR with PDF/DOCX support
+    └── requirements.txt       # Project dependencies
 
 ```
 
